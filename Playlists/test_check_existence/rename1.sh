@@ -1,0 +1,10 @@
+mv test1.mp3 test1_.mp3
+mv test2.mp3 test2_.mp3
+mv test3.wma test3_.wma
+mv test4.mp3 test4_.mp3
+mv test5.aac test5_.aac
+mv test6.mp3 test6_.mp3
+mv test7.mp3 test7_.mp3
+mv test8.wma test8_.wma
+mv test9.mp3 test9_.mp3
+mv test10.aac test10_.aac

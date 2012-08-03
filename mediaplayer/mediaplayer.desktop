@@ -1,0 +1,22 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=mp_ap_name
+X-Text-Domain=mediaplayer
+Exec=/usr/bin/mediaplayer
+X-Osso-Service=mediaplayer
+Icon=tasklaunch_media_player
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
+MimeType=video/quicktime;video/x-msvideo;audio/x-mp3;video/mpeg;audio/x-wav;audio/x-m4a;audio/mp4;audio/x-amr;audio/AMR;video/mp4;video/x-mp4;video/3gpp;audio/mp2;audio/x-mp2;audio/x-ms-wma;audio/x-ms-asx;video/x-ms-asx;video/x-ms-wmv;video/x-ms-wm;audio/x-mpegurl;audio/mpegurl;audio/x-mpeg;audio/x-scpls;video/x-ms-asf;video/x-ms-asf-plugin;application/x-ms-asx;audio/x-ms-wax;video/x-ms-wvx;video/x-ms-wax;video/x-ms-wmx;application/vnd.ms-wpl;application/pls;application/smil;application/m3u;audio/mp3;video/avi;audio/wav;audio/mpeg;application/x-mplayer2;audio/AMR-WB
+
+[X-Osso-URI-Actions]
+rtsp=X-Osso-URI-Action-Open;
+mms=X-Osso-URI-Action-Open;
+#http=X-Osso-URI-Action-Open;
+
+[X-Osso-URI-Action-Open]
+Method=mime_open
+Name=uri_link_play
+TranslationDomain=osso-uri

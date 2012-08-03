@@ -1,0 +1,10 @@
+Package: tl-playlist-creator
+Version: 0.1
+Architecture: all
+Maintainer: Xingzhe (Travis) Lu <travislu.cn@gmail.com>
+Installed-Size:
+Depends:
+Section:
+Priority: optional
+Homepage:
+Description: A feature-rich M3U playlist creator and editor.

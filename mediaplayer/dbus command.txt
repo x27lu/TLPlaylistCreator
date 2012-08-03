@@ -1,0 +1,1 @@
+dbus-send --print-reply --dest=com.nokia.mediaplayer /com/nokia/mediaplayer com.nokia.mediaplayer.mime_open string:file:///home/user/MyDocs/.videos/9.mp4 

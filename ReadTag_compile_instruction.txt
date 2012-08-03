@@ -1,0 +1,1 @@
+libtool --mode=link gcc `pkg-config --cflags --libs gstreamer-0.10` -o ReadTag ReadTag.c
