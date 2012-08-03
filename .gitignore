@@ -1,0 +1,6 @@
+*.o
+*.exe
+TLPlaylistCreator
+ReadTag
+Playlists/
+place\ compiled\ binary\ here
